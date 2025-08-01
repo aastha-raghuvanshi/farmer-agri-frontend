@@ -5,7 +5,7 @@ const policies = [
   {
     title: "PM-KISAN Scheme",
     description: "Provides ₹6,000 per year to small and marginal farmers, directly into their bank accounts.",
-    image: require('../assets/pm-kisan.jpg'), // Place your image in src/assets/
+    image: require('../assets/pm-kisan copy.jpg'), // Place your image in src/assets/
   },
   {
     title: "Soil Health Card Scheme",
