@@ -1,0 +1,26 @@
+.app-footer {
+  background: linear-gradient(90deg, #e0f2f1 0%, #b2dfdb 100%);
+  padding: 1.5rem 1rem;
+  text-align: center;
+  margin-top: 2.5rem;
+  font-size: 1.05rem;
+  color: #2e7d32;
+  box-shadow: 0 -2px 12px rgba(44, 62, 80, 0.07);
+  border-top: 2px solid #80cbc4;
+  letter-spacing: 0.5px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  transition: background 0.3s;
+}
+
+.app-footer p {
+  margin: 0;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+@media (max-width: 600px) {
+  .app-footer {
+    font-size: 0.95rem;
+    padding: 1rem 0.5rem;
+  }
+}
